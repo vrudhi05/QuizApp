@@ -1,6 +1,6 @@
 # QuizApp
 
-QuizAppSB is a Spring Boot-based RESTful API for creating, managing, and taking quizzes. It supports quiz and question management, quiz submission, and result calculation. The backend uses PostgreSQL for data storage and is ready for deployment with Docker or Procfile-based platforms.
+QuizApp is a Spring Boot-based RESTful API for creating, managing, and taking quizzes. It supports quiz and question management, quiz submission, and result calculation. The backend uses PostgreSQL for data storage and is ready for deployment with Docker or Procfile-based platforms.
 
 ## Features
 - Create, update, delete, and list quiz questions
