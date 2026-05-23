@@ -1,0 +1,8 @@
+# Ensure consistent line endings for specific files
+/mvnw text eol=lf
+*.cmd text eol=crlf
+/src/main/resources/application.properties text eol=lf
+
+# Set line endings globally for text files
+* text=auto
+
